@@ -1,0 +1,4 @@
+[Warning: Name is nonexistent or not a directory: C:\Users\markk\Downloads\vot-toolkit-master\tracker\examples\matlab\run_vot] 
+[> In path (line 109)
+  In addpath (line 94)] 
+Undefined function or variable 'run_vot'.
